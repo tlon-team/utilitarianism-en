@@ -1,4 +1,4 @@
-# utilitarismo-en
+# utilitarianism-en
 
 Original English files of `utilitarianism.net`.
 
