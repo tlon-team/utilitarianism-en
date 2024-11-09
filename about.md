@@ -103,6 +103,6 @@ This website was launched from [Queen's Lane Coffee House](http://www.qlcoffeeho
 >
 > It was by that pamphlet, and this phrase in it, that my principles on the subject of morality, public and private together, were determined. It was from that pamphlet and that page of it, that I drew the phrase, the words and import of which have been so widely diffused over the civilized world. At the sight of it, I cried out, as it were, in an inward ecstasy, like Archimedes on the discovery of the fundamental principle of hydrostatics, eureka!"
 
-\- Bentham, J. (1834). Deontology, or the Science of Morality. _The British Critic, Quarterly Theological Review, and Ecclesiastical Record_. 16(32): 279–280.
+\- [@Bentham2002DeontologyTogetherTable].
 
 </div>
